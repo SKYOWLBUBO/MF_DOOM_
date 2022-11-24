@@ -12,3 +12,11 @@ Windows
 ```sh
 dir
 ```
+
+
+Удаление файлов
+
+Windows
+```sh
+del file.txt
+```
